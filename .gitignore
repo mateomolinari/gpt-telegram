@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+lib64/
+geckodriver
+geckodriver.log
+pyvenv.cfg
+
+src/__pycache__
+src/geckodriver.log
+src/cookies.py
+
+.env
